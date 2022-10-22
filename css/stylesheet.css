@@ -133,6 +133,10 @@
     border: none !important;
 }
 
+.bi.bi-download{
+    color: #FFFFFF !important;
+}
+
 .coppyrigth-text{
     color: #FFFFFF !important;
     text-align: center !important;
