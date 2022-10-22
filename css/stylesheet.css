@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+.body{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+
+.navbar{
+    background-color:#6CA58F !important;
+}
+
+.nav-link{
+    color:#FFFFFF ! important;
+}
+
+.carousel-inner{
+    height: 500px !important;
+}
+
+
+.carousel-item img{
+    height: 500px !important;
+}
+
+
+.carousel-item{
+    height: 500px !important;
+}
+
+.carousel-caption{
+    position: absolute !important;
+    text-align: center !important;
+    color: #FFFFFF !important;
+}
+
+.carousel-btn{
+    background-color: #6CA58F !important;
+    color: #FFFFFF !important;
+    border: none;
+}
+
+
+.our-service-container{
+    background-color: #6CA58F !important;
+}
+
+.our-service-text{
+    text-align: center;
+    color: #FFFFFF !important;
+    font-family: Arial, Helvetica, sans-serif !important;
+}
+
+.Why-choose-us-container{
+    background-color: #6CA58F !important;
+}
+
+.Why-choose-us-text{
+    text-align: center;
+    color: #FFFFFF !important;
+    font-family: Arial, Helvetica, sans-serif !important;
+}
+
+.about-us-container{
+    background-color: #6CA58F !important;
+}
+
+.sabuca-container{
+    background-color: #6CA58F !important;
+}
+
+.sabuca-text{
+    text-align: center !important;
+    color: #FFFFFF !important;
+    font-family: Arial, Helvetica, sans-serif !important;
+}
+
+.our-mission-container{
+    background-color: #6CA58F !important;
+}
+
+.contact-us-container{
+    background-color: #6CA58F !important;
+}
+
+.gallery-container{
+    background-color: #6CA58F !important;
+}
+
+.gallery-text{
+    text-align: center !important;
+    color: #FFFFFF !important;
+    font-family: Arial, Helvetica, sans-serif !important;
+}
+
+.footer-container{
+    background-color: #6CA58F !important;
+}
+
+.card-body{
+    background-color: #6CA58F !important;
+}
+
+.card-title{
+    color: #FFFFFF !important;
+    text-align: center !important;
+    font-family: Arial, Helvetica, sans-serif !important;
+}
+
+.card-text{
+    color: #FFFFFF !important;
+    text-align: center !important;
+    font-family: Arial, Helvetica, sans-serif !important;
+}
+
+
+
+.list-group-item{
+    background-color: #6CA58F !important;
+    color: #FFFFFF !important;
+    font-family: Arial, Helvetica, sans-serif !important;
+}
+
+.card-list{
+    background-color: #6CA58F !important;
+    color: #FFFFFF !important;
+    font-family: Arial, Helvetica, sans-serif !important;
+}
+
+
+.btn.btn-primary{
+    background-color: #6CA58F !important;
+    border: none !important;
+}
+
+.coppyrigth-text{
+    color: #FFFFFF !important;
+    text-align: center !important;
+    font-family: Arial, Helvetica, sans-serif !important;
+}
