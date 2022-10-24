@@ -34,6 +34,21 @@
     color: #FFFFFF !important;
 }
 
+
+.overlay:before {
+    content:"" !important;
+    display:block !important;
+    position:absolute !important;
+    top:0 !important;
+    bottom:0 !important;
+    left:0 !important;
+    right:0 !important;
+    background:#b5ecb5 !important;
+    opacity:0.2 !important;
+}
+
+
+
 .carousel-btn{
     background-color: #6CA58F !important;
     color: #FFFFFF !important;
