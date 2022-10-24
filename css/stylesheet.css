@@ -14,6 +14,13 @@
     color:#FFFFFF ! important;
 }
 
+
+.nav-link:hover{
+    color: #fcb900 !important;
+}
+
+
+
 .carousel-inner{
     height: 500px !important;
 }
