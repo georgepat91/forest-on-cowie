@@ -29,9 +29,10 @@
 }
 
 .carousel-caption{
-    position: absolute !important;
-    text-align: center !important;
-    color: #FFFFFF !important;
+    top: 50% !important;
+    color:#ffffff !important;
+    font-family: Arial, Helvetica, sans-serif !important;
+    font-size: large !important;
 }
 
 
